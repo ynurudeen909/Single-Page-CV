@@ -1,2 +1,1 @@
-# Single-Page-CV
-CV Details
+https://roadmap.sh/projects/single-page-cv
